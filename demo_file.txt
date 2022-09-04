@@ -1,4 +1,2 @@
 this is developer 1
 developer 2 added this line
-developer 2 added at line 3
-this message is before to approve pr
